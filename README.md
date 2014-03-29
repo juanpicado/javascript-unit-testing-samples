@@ -1,4 +1,11 @@
-mocha-grunt-boilerplate
+Javascript Unit Testing Collection
 =======================
 
-mocha-grunt-boilerplate
+Different kind of solutions for test your **javascript code**.
+
+
+#### Karma + Mocha + Chai + Instanbul + Grunt.js [Example 1]
+
+   	npm install
+  	npm test
+  	

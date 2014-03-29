@@ -1,0 +1,23 @@
+{
+  "name": "js-unit-testing-karma-example1",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "devDependencies": {
+    "karma": "~0.10.2",
+    "karma-mocha": "~0.1.1",
+    "karma-coverage": "~0.1.0",
+    "grunt": "~0.4.1",
+    "grunt-karma": "~0.6.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.9.2",
+    "jshint-stylish": "~0.1.5",
+    "karma-opera-launcher": "~0.1.0",
+    "karma-safari-launcher": "~0.1.1",
+    "karma-chrome-launcher": "~0.1.2"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
